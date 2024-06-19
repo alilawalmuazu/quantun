@@ -1,0 +1,9 @@
+.gsc-image-content.skin-v1.triangles_style .image:before {
+  content: none !important;
+  display: none !important;
+}
+
+.gsc-image-content.skin-v1.triangles_style .image-second:before {
+  content: none !important;
+  display: none !important;
+}
